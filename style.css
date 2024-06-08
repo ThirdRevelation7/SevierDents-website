@@ -4,3 +4,6 @@
     border-radius: 0.75rem;
 }
 
+.carousel-inner {
+    max-height: 800px;
+}
