@@ -7,3 +7,15 @@
 .carousel-inner {
     max-height: 800px;
 }
+
+.move-up-on-hover {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    transition: transform 0.5s ease;
+}
+
+.move-up-on-hover:hover,
+.move-up-on-hover:active {
+    transform: translateY(-5px);
+}
