@@ -22,18 +22,18 @@
 
 body {
     background-color: #CBCBCB;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(67, 67, 67);
     font-size: medium;
 }
 
 h1, h2, h3{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lato', sans-serif;
     color: black;
 }
 
 #contact-btn {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 .custom-button {
